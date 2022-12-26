@@ -1,2 +1,2 @@
 # Drowsiness_detection
-This repository for drowsiness prediction
+This repository for drowsiness detection
