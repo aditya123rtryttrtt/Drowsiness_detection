@@ -12,5 +12,5 @@ Sleep State = less than 0.19
 
 In my case value of Eye Aspect ratio depends on video quality (image is clear or not) and position of head.
 
-Most important challenges during completing this project on local system is donloading all package like openCV,dlib and imutils.
+Most important challenges during completing this project on local system is installing all package like openCV,dlib and imutils.
 
