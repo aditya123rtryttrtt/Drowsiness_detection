@@ -1,5 +1,5 @@
 # Drowsiness_detection
-This repository for drowsiness detection
+This repository is for drowsiness detection
 
 
 Eye Aspect Ratio for :
